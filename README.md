@@ -21,3 +21,5 @@
 ✩ Clone repo<br>
 ✩ Run DemoApplication<br>
 ✩ Open http://localhost:8080<br>
+✩ Deployed it using railway!!!!!
+link : "project1-todo-production.up.railway.app"
